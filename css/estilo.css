@@ -643,13 +643,13 @@
                 padding: 50px 20px;
             }
             /* seccion estudios */
-            #estudios {
-                padding: 50px 0;
+            #estudio {
+                padding: 50px 15px;
             }
-            #estudios .fila {
+            #estudio .fila {
                 display: block;
             }
-            #estudios .fila .proyecto {
+            #estudio .fila .proyecto {
                 margin: 10px auto;
             }
             /* seccion CONTACTO */
