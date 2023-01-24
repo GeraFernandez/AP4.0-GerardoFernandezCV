@@ -644,13 +644,13 @@
             }
             /* seccion estudios */
             #estudio {
-                padding: 50px 15px;
+                padding: 50px 10px;
             }
             #estudio .fila {
-                display: block;
+                display: inline-block;
             }
             #estudio .fila .proyecto {
-                margin: 10px auto;
+                margin: auto 50%;
             }
             /* seccion CONTACTO */
             #contacto {
